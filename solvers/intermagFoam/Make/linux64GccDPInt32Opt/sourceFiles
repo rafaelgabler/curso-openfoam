@@ -1,0 +1,4 @@
+SOURCE = \
+intermagFoam.C \
+
+# sources
