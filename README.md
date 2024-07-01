@@ -10,7 +10,7 @@ c) Wolf Dynamics Training course material: http://www.wolfdynamics.com/tutorials
 
 d) Chalmer's Hakan Nilsson CFD Course (Lecture notes per year): https://www.tfd.chalmers.se/~hani/kurser/OS_CFD/#BasicInformation
 
-e) Holzmann CDF: https://holzmann-cfd.com/community/training-cases
+e) Holzmann CFD: https://holzmann-cfd.com/community/training-cases
 
 2 - Como adicionar uma equação governante em uma solução
 
