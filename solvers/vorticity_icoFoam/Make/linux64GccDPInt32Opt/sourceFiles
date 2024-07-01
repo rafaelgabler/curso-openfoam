@@ -1,0 +1,4 @@
+SOURCE = \
+vorticity_icofoam.C \
+
+# sources
